@@ -4,24 +4,6 @@ Landing page profesional para un servicio de desarrollo de sitios web dirigido a
 
 El proyecto fue desarrollado con HTML, CSS y JavaScript, incorporando animaciones, diseño responsive, integración con WhatsApp y una experiencia visual orientada a la conversión.
 
-## 🌐 Demo
-
-🔗 **Sitio web:** [Ver demo](https://TU-USUARIO.github.io/TU-REPOSITORIO/)
-
-📁 **Repositorio:** [GitHub](https://github.com/TU-USUARIO/TU-REPOSITORIO)
-
-> Reemplaza los enlaces anteriores con la URL real de tu proyecto.
-
----
-
-## 📸 Vista previa
-
-![Páginas Web Express - Preview](assets/preview.png)
-
-> Agrega una captura de pantalla del proyecto en `assets/preview.png`.
-
----
-
 ## 🎯 Sobre el proyecto
 
 **Páginas Web Express** es una landing page diseñada para promocionar servicios de desarrollo web.
